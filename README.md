@@ -42,6 +42,7 @@ Name  |  Description
 [Rafay Hacking Articles, a great blog](http://www.rafayhackingarticles.net/) | Write up collections by Rafay Baloch.
 [PentesterLab](https://pentesterlab.com/) | 20$ signature, complete content basic to write exploits, web, android.
 [CyberSec WTF](https://cybersecurity.wtf/)| Emulated web pentesting challenges from bounty write-ups
+[CMD Challenge](https://cmdchallenge.com) | Tests your knowledge of command line/terminal usage,gives you a task and you try to write out the process.
 
 ### Off-Line
 Name  |  Description
@@ -101,6 +102,8 @@ Name    |    Description
 2. [cisco's cources](https://www.netacad.com/courses/cybersecurity)
 3.[cybrary](https://www.cybrary.it/catalog/cybersecurity/)
 4.[hackers academy](https://hackersacademy.com/)
+5.[Microsoft Azure Security Engineer Associate Course](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/) | You can take the course for free,you even get a certificate after an exam.
+6.[Elastic.co](https://www.elastic.co/training/free) | You can find many free courses that can improve your general skills/knowledge here.
 
 For those who want to do CEH, the following links are for you.	
 2. [CBT Nuggets CEH Training](http://goo.gl/JuW85U)
